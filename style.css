@@ -1,0 +1,17 @@
+body {
+    background-image: url('bg_ksatria.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .form-label{
+      color: white;
+  }
+
+  .bg-form{
+    background-color: #7A9197;
+  }
+
+  .desc{
+    width: 300px;
+  }
